@@ -1,0 +1,32 @@
+body {background-color: #eaf6f6; margin: 3%}
+
+h1 {color: #00ADB5; }
+h3 {color: #00546e; }
+th {color: #222831; }
+li {color: #393e46;}
+td {color: #393e46;}
+p {color: #393e46;}
+h4{color: #393e46;}
+  hr {
+    border-color: grey;
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 8%}
+
+.emotes {
+    height:auto;
+    width:10%;
+}
+.emotesx {
+  height:auto;
+  width:7%;
+}
+.badges {
+  height:auto;
+  width:9%;
+}
+.uberx {
+  height:auto;
+  width:30%;
+  border: thick double #32a1ce;
+}
